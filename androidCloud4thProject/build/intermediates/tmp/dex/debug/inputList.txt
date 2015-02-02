@@ -1,0 +1,4 @@
+C:\Users\stephenb\Desktop\androidCloud4thProject_Android\androidCloud4thProject\build\intermediates\classes\debug
+C:\Users\stephenb\Desktop\androidCloud4thProject_Android\androidCloud4thProject\build\intermediates\pre-dexed\debug\mobileservices-1.1.5-632761e191c8f4617839b93f659bc096e04fe56d.jar
+C:\Users\stephenb\Desktop\androidCloud4thProject_Android\androidCloud4thProject\build\intermediates\pre-dexed\debug\gson-2.2.2-4e619b46309dfc405b23bf8f65cf7ac764d08caf.jar
+C:\Users\stephenb\Desktop\androidCloud4thProject_Android\androidCloud4thProject\build\intermediates\pre-dexed\debug\android-support-v4-caeb073aae1843a4436e33228a1094c5bf754fc7.jar
